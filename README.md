@@ -22,10 +22,3 @@ file=os.listdir(path)
 for i in file:
 	***
 ~~~
-
-<u>去掉某一文件的头和尾</u>
-
-~~~
-.rstrip('*') ##去尾
-.lstrip('*') ##去头
-~~~
